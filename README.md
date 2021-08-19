@@ -9,7 +9,7 @@ Almost 6 years in marketing gave me:
 
 ✅ Strong analitical skills. My favourite part of work was to analise audience, competitors and market in the whole.
 
-✅ Project managmant skills. Working in collaboration with Marketing Agencies or different companies like a freelancer I was responsibile for product realese. One of the example of my work is https://gresco.com.ua/. In this project I:
+✅ Project management skills. Working in collaboration with Marketing Agencies or different companies like a freelancer I was responsibile for product realese. One of the example of my work is https://gresco.com.ua/. In this project I:
 - analysed audience, competitors and market;
 - created content and made a moquap of the future web-site;
 - created requirements for designer and developer;
@@ -18,7 +18,7 @@ Almost 6 years in marketing gave me:
 
 ✅ The ability to work on my own with minimum supervision.
 
-✅ Basic testing experience such as I was responsibile for product quality.
+✅ Basic testing experience.
 
 _________________________________________________
 
@@ -27,7 +27,7 @@ _________________________________________________
 
 The most interesting cases was when I worked in questrooms market place and we started new direction in quarantined period - online-quests.
 - This is our web-application with online-quests: https://questgames.qeng.org/
-- This is free and nonconfidential corporative online-quest: https://viyar.qeng.org/.
+- This is free and not confidential corporative online-quest: https://viyar.qeng.org/.
 
 It was a great challenge to develope a new product in one month with team less than 10 persons.
 
