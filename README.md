@@ -11,7 +11,7 @@ Almost 6 years in marketing gave me:
 
 ✅ Project management skills. Working in collaboration with Marketing Agencies or different companies like a freelancer I was responsibile for product realese. One of the example of my work is https://gresco.com.ua/. In this project I:
 - analysed audience, competitors and market;
-- created content and made a moquap of the future web-site;
+- created content and made a mockup of the future web-site;
 - created requirements for designer and developer;
 - communicated with client in all stages of development;
 - tested ready-made product;
@@ -25,11 +25,10 @@ _________________________________________________
 **❤️ I'm passionate about creating cool projects.**
 _________________________________________________
 
-The most interesting cases was when I worked in questrooms market place and we started new direction in quarantined period - online-quests.
-- This is our web-application with online-quests: https://questgames.qeng.org/
-- This is free and not confidential corporative online-quest: https://viyar.qeng.org/.
+The most interesting cases was when I worked in escape rooms market place and we started new direction in quarantined period - online escape games.
+- This is our web-application with online games: https://questgames.qeng.org/
 
-It was a great challenge to develope a new product in one month with team less than 10 persons.
+It was a really great challenge to develope a new product in one month with team less than 10 persons.
 
 
 _________________________________________________
