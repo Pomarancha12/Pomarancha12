@@ -33,7 +33,8 @@ It was a really great challenge to develope a new product in one month with team
 
 _________________________________________________
 
-📫 How to reach me o.s.kozhyna@gmail.com
+📫 How to reach me 
+- o.s.kozhyna@gmail.com
 
 <!---
 Pomarancha12/Pomarancha12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
