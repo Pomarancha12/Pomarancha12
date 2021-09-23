@@ -4,12 +4,12 @@ _________________________________________________
 I've finished QA/QC courses and now I'm looking for job opportunities. I’m interested in professional growing and want to become an expert in QA.
 _________________________________________________
 
-I'm a begginer in IT but I have a good professional background behind me.
+I'm a beginner in IT but I have a good professional background behind me.
 Almost 6 years in marketing gave me:
 
 ✅ Strong analitical skills. My favourite part of work was to analise audience, competitors and market in the whole.
 
-✅ Project management skills. Working in collaboration with Marketing Agencies or different companies like a freelancer I was responsibile for product realese. One of the example of my work is https://gresco.com.ua/. In this project I:
+✅ Project management skills. Working in collaboration with Marketing Agencies or different companies like a freelancer I was responsible for product release. One of the example of my work is https://gresco.com.ua/. In this project I:
 - analysed audience, competitors and market;
 - created content and made a mockup of the future web-site;
 - created requirements for designer and developer;
